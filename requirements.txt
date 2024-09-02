@@ -1,0 +1,7 @@
+transformers
+gradio
+accelerate
+bitsandbytes
+groq
+langchain
+langchain_groq
