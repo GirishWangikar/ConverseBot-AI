@@ -22,7 +22,7 @@ Before running this application, ensure you have the following:
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/conversebot-ai.git
+git clone https://github.com/GirishWangikar/ConverseBot-AI
 cd conversebot-ai
 
 
